@@ -8,20 +8,20 @@ The data warehouse created for this task contains transaction data from the **UC
 
 ---
 
-## Key Findings
+## Key findings
 
-- **Total Sales by Country**  
+- **Total sales by country**  
   The United Kingdom dominates overall revenue, far exceeding all other countries. This suggests the retailer’s core market is domestic, with international sales representing a smaller portion of total revenue.
 
-- **Monthly Sales Trend – United Kingdom**  
+- **Monthly sales trend – United Kingdom**  
   A clear seasonal pattern emerges, with sales volumes increasing significantly in **Q4 (October–December)**, likely due to holiday shopping. Smaller spikes in other months may correspond to seasonal promotions or events. This indicates the importance of intensified marketing and stock planning ahead of Q4.
 
-- **Top 10 Products by Sales**  
+- **Top 10 products by sales**  
   The highest-selling products are primarily gift and household items, such as decorative holders and seasonal goods. This highlights consistent customer interest in home décor and gifting products.
 
 ---
 
-## Insights for Decision-Making
+## Insights for decision-making
 
 - Focus marketing campaigns and inventory stocking ahead of Q4 to capture seasonal demand.
 - Maintain adequate stock levels for best-selling products year-round to sustain revenue.
