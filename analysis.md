@@ -6,6 +6,6 @@ From the total sales by country visualization, it is evident that the United Kin
 
 The **monthly sales trend for the United Kingdom shows a clear seasonal pattern. Sales volumes increase significantly in the last quarter (October–December), likely due to holiday shopping. Smaller spikes in other months may correspond to seasonal promotions or events. This insight suggests that marketing and stock planning should be intensified ahead of Q4 to meet increased demand.
 
-The **top 10 products by sales** are primarily gift and household items, such as decorative holders and seasonal items. Their strong performance indicates stable customer interest in home décor and gifting products. Ensuring consistent stock levels of these items can help sustain revenue.
+The top 10 products by sales are primarily gift and household items, such as decorative holders and seasonal items. Their strong performance indicates stable customer interest in home décor and gifting products. Ensuring consistent stock levels of these items can help sustain revenue.
 
 Overall, the data warehouse enables efficient aggregation, slicing, and drilling down into key metrics, supporting strategic decisions such as market prioritization, seasonal stock planning, and product focus. However, as this dataset is historical, trends may have shifted since 2011. Additional, more recent data should be integrated for current decision-making.
