@@ -1,7 +1,7 @@
 # DSA2040 Practical Exam — Retail Data Warehouse
 ## Author
 - **Name:** Arlen Ngahu  
-- **Final ID Digits:** 855  
+- **ID:** 855  
 - **Course:** DSA2040  
 - **Date:** 13 August 2025
 
