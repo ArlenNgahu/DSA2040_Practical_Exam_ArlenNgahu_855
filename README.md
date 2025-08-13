@@ -94,3 +94,10 @@ From the total sales by country visualization, the **United Kingdom** dominates 
 
 ---
 
+## License
+
+[text](LICENSE)
+
+## .gitignore
+
+[text](.gitignore)
