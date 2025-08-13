@@ -48,6 +48,37 @@ It includes:
 - `ProductDim(StockCode PK, Description, Category)`
 - `TimeDim(TimeID PK, InvoiceDate, Day, Month, Quarter, Year, WeekOfYear)`
 
+               +----------------+
+               |  ProductDim    |
+               | PK StockCode   |
+               | Description    |
+               | Category       |
+               +--------+-------+
+                        |
+                        |
++----------------+      |     +----------------+
+| CustomerDim    |      |     | TimeDim        |
+| PK CustomerID  |      |     | PK TimeID      |
+| Country        |      |     | InvoiceDate    |
+| CustomerName   |      |     | Day, Month...  |
++--------+-------+      |     +--------+-------+
+         |               |              |
+         +---------------+--------------+
+                         |
+                 +-------+--------+
+                 |   SalesFact    |
+                 | PK SalesFactID |
+                 | InvoiceNo      |
+                 | FK StockCode   |
+                 | FK CustomerID  |
+                 | FK TimeID      |
+                 | Quantity       |
+                 | UnitPrice      |
+                 | TotalSales     |
+                 | Country        |
+                 +----------------+
+
+
 ---
 
 ## ETL (Task 2)
