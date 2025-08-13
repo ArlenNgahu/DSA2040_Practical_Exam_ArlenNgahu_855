@@ -60,7 +60,7 @@ It includes:
 | CustomerDim    |      |     | TimeDim        |
 | PK CustomerID  |      |     | PK TimeID      |
 | Country        |      |     | InvoiceDate    |
-| CustomerName   |      |     | Day, Month...  |
+| CustomerName   |      |     | Day, Month,... |
 +--------+-------+      |     +--------+-------+
          |               |              |
          +---------------+--------------+
